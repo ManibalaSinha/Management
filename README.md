@@ -183,6 +183,7 @@ It is ideal for:
 
 **Manibala Sinha**
 Full Stack Developer — React, Node.js, Python
-📍 Vaughan, ON
-🔗 GitHub: [https://github.com/ManibalaSinha](https://github.com/ManibalaSinha)
+ Vaughan, ON
+ GitHub: [https://github.com/ManibalaSinha](https://github.com/ManibalaSinha/Management)
+
 

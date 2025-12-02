@@ -1,9 +1,10 @@
 from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
 from typing import List
-from models import Base, User
-from db import engine, SessionLocal
-from schemas import UserCreate, UserOut
+from .models import Base, User
+from .database import engine, SessionLocal
+from .schemas import UserCreate, UserOut
+from app.routers import auth, leads
 
 Base.metadata.create_all(bind=engine)
 

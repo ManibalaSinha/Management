@@ -1,6 +1,7 @@
 # **Lead Management System (React + FastAPI + PostgreSQL)**
 <p align="center">
-  <img src="backend/app/assets/Login.png" alt="Swagger UI" width="600">https://youtu.be/VEWHFmKNO2c?si=j_6FUYbjBTVRr4xe
+  <img src="backend/app/assets/Login.png" alt="Swagger UI" width="600">
+  https://youtu.be/VEWHFmKNO2c?si=j_6FUYbjBTVRr4xe
 </p>
 
 A full-stack **Lead Management System** designed for sales teams to track, organize, and manage customer leads efficiently.
@@ -185,6 +186,7 @@ It is ideal for:
 Full Stack Developer — React, Node.js, Python
  Vaughan, ON
  GitHub: [https://github.com/ManibalaSinha](https://github.com/ManibalaSinha/Management)
+
 
 
 

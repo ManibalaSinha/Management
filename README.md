@@ -5,7 +5,10 @@ A **full-stack Lead Management System** designed for sales teams to track, organ
 <p align="center">
   <a href="https://youtu.be/VEWHFmKNO2c?si=j_6FUYbjBTVRr4xe"> Watch Demo</a>
 </p>
-![Dashboard Example](https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/RetrievedData.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/RetrievedData.png" width="600" />
+</p>
+
 
 ![Dashboard Example](backend/app/assets/RetrievedData.png)
 ![Lead Details](backend/app/assets/RetrievedUrl.png)
@@ -183,6 +186,7 @@ This starts:
 **Manibala Sinha** — Full Stack Developer (React, Node.js, Python)
 Vaughan, ON, Canada
 GitHub: [https://github.com/ManibalaSinha](https://github.com/ManibalaSinha)
+
 
 
 

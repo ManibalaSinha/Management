@@ -9,7 +9,7 @@ A **full-stack Lead Management System** designed for sales teams to track, organ
   <img src="https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/RetrievedData.png" width="600" />
   <img src="https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/RetrievingUrl.png" width="600" />
   <img src="https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/Dashboard.png" width="600" />
-  <img src="https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/LeadDetails.png" width="600" />
+  <img src="https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/LeadsDetails.png" width="600" />
   <img src="https://raw.githubusercontent.com/ManibalaSinha/Management/main/backend/app/assets/docs.png" width="600" />
 </p>
 
@@ -183,6 +183,7 @@ This starts:
 **Manibala Sinha** — Full Stack Developer (React, Node.js, Python)
 Vaughan, ON, Canada
 GitHub: [https://github.com/ManibalaSinha](https://github.com/ManibalaSinha)
+
 
 
 

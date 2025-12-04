@@ -3,16 +3,13 @@
 A **full-stack Lead Management System** designed for sales teams to track, organize, and manage customer leads efficiently. Built with a **React** frontend, **FastAPI** backend, and **PostgreSQL** database, this application supports complete CRUD operations, authentication, and role-based access.
 
 <p align="center">
-  <a href="https://youtu.be/VEWHFmKNO2c?si=j_6FUYbjBTVRr4xe">🎬 Watch Demo</a>
+  <a href="https://youtu.be/VEWHFmKNO2c?si=j_6FUYbjBTVRr4xe"> Watch Demo</a>
 </p>
-
-<p align="center">
-  <img src="app/assets/RetrievedData.png" alt="Dashboard Example" width="600">
-  <img src="app/assets/RetrievedUrl.png" alt="Lead Details" width="600">
-  <img src="app/assets/Dashboard.png" alt="Dashboard View" width="600">
-  <img src="app/assets/Login.png" alt="Login Page" width="600">
-  <img src="app/assets/docs.png" alt="Swagger Docs" width="600">
-</p>
+Dashboard Example: (app/assets/RetrievedData.png)
+Lead Details: (app/assets/RetrievedUrl.png)
+Dashboard View: (app/assets/Dashboard.png)
+Login Page: app/assets/Login.png
+Swagger Docs: app/assets/docs.png
 
 ---
 
@@ -184,3 +181,4 @@ This starts:
 **Manibala Sinha** — Full Stack Developer (React, Node.js, Python)
 Vaughan, ON, Canada
 GitHub: [https://github.com/ManibalaSinha](https://github.com/ManibalaSinha)
+

@@ -5,6 +5,22 @@ from .models import Base, User
 from .database import engine, SessionLocal
 from .schemas import UserCreate, UserOut
 from app.routers import auth, leads
+from fastapi.middleware.cors import CORSMiddleware
+from app.routers.auth import router as auth_router
+
+app = FastAPI()
+
+origins = [
+    "http://localhost:3000",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,      # Frontend origin
+    allow_credentials=True,
+    allow_methods=["*"],        # Allow GET, POST, PUT, DELETE
+    allow_headers=["*"],
+)
 
 Base.metadata.create_all(bind=engine)
 
@@ -50,4 +66,9 @@ def list_users(limit: int = 20, offset: int = 0, db: Session = Depends(get_db)):
         .all()
     )
     return users
+
+@app.get("/users_db")
+def read_users():
+    return {"message": "Use POST to create a user"}
+
 
